@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 
 const AdSense = ({ 
-  client = "ca-pub-XXXXXXXXXXXXXXXX", // Replace with actual client ID
+  client = "ca-pub-2010584930704538", // Replace with actual client ID
   slot, 
   style = { display: 'block' }, 
   format = "auto", 
